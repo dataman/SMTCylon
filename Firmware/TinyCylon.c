@@ -1,3 +1,6 @@
+// Charley Jones, 
+// V1.0.
+//
 // tinyCylon2.c
 // revised firmware for tinyCylon LED scanner
 // written by dale wheat - 18 november 2008
